@@ -1,5 +1,5 @@
 # UAP_Pemrograman-Terstruktur_C
-Berisi codingan untuk projek tema sehari-hari <TEMA> 
+Berisi codingan untuk projek bertema "Pendaftaran Karyawan" 
 dengan tujuan untuk menyelesaikan UAP mata kuliah Pemrograman Terstruktur responsi
 
 Anggota Kelompok 6 :
