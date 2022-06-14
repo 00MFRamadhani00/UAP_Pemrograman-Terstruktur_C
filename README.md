@@ -2,7 +2,7 @@
 Berisi codingan untuk projek tema sehari-hari <TEMA> 
 dengan tujuan untuk menyelesaikan UAP mata kuliah Pemrograman Terstruktur responsi
 
-Anggota Kelompok 5 :
+Anggota Kelompok 6 :
  >  Shalahuddin Abdul Aziz (2117051083)
   
  > Kristi Ayuni (2117051097)
