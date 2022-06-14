@@ -1,2 +1,7 @@
 # UAP_Pemrograman-Terstruktur_C
- Shalahuddin Abdul Aziz (2117051083)___Kristi Ayuni (2117051097)___Muhammad Fadhilah Ramadhani (2157051006)
+Berisi codingan untuk projek tema sehari-hari <TEMA> dengan tujuan untuk menyelesaikan UAP mata kuliah Pemrograman Terstruktur responsi
+ 
+Anggota Kelompok 5
+   Shalahuddin Abdul Aziz (2117051083)
+   Kristi Ayuni (2117051097)
+   Muhammad Fadhilah Ramadhani (2157051006)
