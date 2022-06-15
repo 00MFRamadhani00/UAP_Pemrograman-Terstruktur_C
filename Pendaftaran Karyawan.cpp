@@ -11,8 +11,8 @@ int main(){
 	string data;
 	
 	do{
-		cout <<"=================================================" <<endl 
-			 <<"======Program Pendaftaraan Karyawan======" << endl
+		    cout <<"=================================================" <<endl 
+			 <<"       Program Pendaftaraan Karyawan      " << endl
 			 <<" 1. Masukkan nama pendaftar" << endl
 			 <<" 2. Selesaikan antrian terdepan" << endl
 			 <<" 3. Kosongkan antrian" <<endl
