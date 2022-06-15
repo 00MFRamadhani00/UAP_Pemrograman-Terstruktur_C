@@ -13,7 +13,7 @@ int main(){
 	do{
 		cout <<"=================================================" <<endl 
 			 <<"======Program Pendaftaraan Karyawan======" << endl
-			 <<" 1. Masukkan antrian karyawan" << endl
+			 <<" 1. Masukkan nama pendaftar" << endl
 			 <<" 2. Selesaikan antrian terdepan" << endl
 			 <<" 3. Kosongkan antrian" <<endl
 			 <<" 4. Mengecek antrian pendaftaran"<<endl
@@ -50,7 +50,7 @@ int main(){
 				
 			case 3:
 				if(antrian.empty()){
-					cout<<"Antian Kosong";
+					cout<<"Antrian Kosong";
 				}else{
 					antrian.empty();
 					cout << "Antrian dikosongkan!";
