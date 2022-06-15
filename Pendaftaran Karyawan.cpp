@@ -32,7 +32,7 @@ do{
 		cout <<endl;
 		break;
     
-   case 2:
+        case 2:
 		if (tumpukan.empty()){		
 			cout <<"~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"<<endl ;
 			cout <<"             Data sudah terhapus"<<endl ;
@@ -43,4 +43,39 @@ do{
 		}
 		cout <<endl;
 		break;
+		  
+	case 3:
+		if(tumpukan.empty()){			//kondisi jika data masih kosong
+			cout <<"~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"<<endl;
+			cout <<"Data tidak ditemukan"<<endl;
+			cout <<"~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"<<endl;
+		}else{
+			cout <<"Data karyawan tersimpan didata D : " <<endl;
+			while (!tumpukan.empty()){
+			cout <<"["<<tumpukan.top() <<"]"<<endl;		//menampilkan tumpukan baju
+			tumpukan.pop();
+		}
+		}
+		break;
+			
+	case 4:
+		system ("CLS");
+		break;
+			
+			
+	case 5:
+		cout<<"~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"<<endl;
+		cout <<"Program Selesai"<<endl;
+		cout<<"~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"<<endl;
+		break;
+			
+	default:
+		cout<<"~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"<<endl;
+		cout <<"Pilihan yang dimasukkan tidak tersedia"<<endl;
+		cout<<"~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"<<endl;
+		}
+	
+}while (pilih >=1 && pilih <=3);
+	   return 0;
 }
+
