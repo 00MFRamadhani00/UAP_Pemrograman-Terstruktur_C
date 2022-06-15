@@ -13,6 +13,7 @@ int main(){
 	do{
 		    cout <<"=================================================" <<endl 
 			 <<"       Program Pendaftaraan Karyawan      " << endl
+			 <<"=================================================" <<endl   
 			 <<" 1. Masukkan nama pendaftar" << endl
 			 <<" 2. Selesaikan antrian terdepan" << endl
 			 <<" 3. Kosongkan antrian" <<endl
