@@ -1,6 +1,6 @@
 #include <iostream>
-#include <conio.h>
 #include <windows.h>
+#include <conio.h>
 #include <queue>
 
 using namespace std;
